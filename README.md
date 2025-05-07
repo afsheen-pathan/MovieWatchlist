@@ -1,4 +1,4 @@
-# 🎬 Movie Watchlist App
+# 🎬 Movie Watchlist
 
 A simple and elegant web app to manage your personal watchlist of movies. Add your favorite films, mark them as watched, and keep your movie goals on track!
 
